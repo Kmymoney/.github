@@ -1,9 +1,7 @@
 # KMyMoney Professional Enterprise Personal Finance Environment for Windows Systems
 
 <div align="center">
-
-![KMyMoney](https://img.shields.io/badge/KMyMoney-Official_Software-blue?style=for-the-badge&logo=kde&logoColor=white)
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Kmymoney.svg" alt="KMyMoney Original Logo" width="128"/>
 </div>
 
 <div align="center">
@@ -25,6 +23,10 @@ Organizations scaling their commercial or investment infrastructure can easily m
 Utilizing the independent kmymoney portable deployment profile enables roving financial analysts and external corporate consultants to manage multi-company ledgers directly from mobile storage media. The self-contained kmymoney portable binary architecture requires zero active host workstation system modification, ensuring strict security isolation when operating within third-party corporate networks. Corporate financial controllers utilize this isolated workspace to inspect historical transaction patterns, compile vendor invoices, and cross-examine banking records safely. The underlying kmymoney open source module framework allows developers to build tailored extension templates without changing the primary calculation core.
 
 Modern commercial bookkeeping and asset hosting mandate a deterministic, modular ledger platform like the kmymoney windows suite to manage changing regulatory parameters. Merging optimized account properties and multi-currency exchange tables with secure internal backup protocols ensures total corporate recovery capabilities in the event of local workstation hardware failures. Whether processing automated customer invoicing records or reviewing deep capital depreciation data, the environment delivers high computational performance. The ongoing refinement of the core engine ensures that corporate accounting routines stay fully aligned with modern enterprise asset management strategies.
+
+<div align="center">
+  <img src="https://docs.kde.org/stable5/en/kmymoney/kmymoney/home-page.png" alt="KMyMoney Interface Screenshot" width="100%"/>
+</div>
 
 <div align="center">
 
