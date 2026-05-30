@@ -1,7 +1,7 @@
 # KMyMoney Professional Enterprise Personal Finance Environment for Windows Systems
 
 <div align="center">
-  <img src="https://dl.flathub.org/repo/appstream/org.kde.kmymoney/icons/128x128/org.kde.kmymoney.png" alt="KMyMoney Logo"/>
+  <img src="https://apps.microsoft.com/store/apps/9NBLGGH4R9SD/images/icon" alt="KMyMoney Original Logo" width="128"/>
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@ Utilizing the independent kmymoney portable deployment profile enables roving fi
 Modern commercial bookkeeping and asset hosting mandate a deterministic, modular ledger platform like the kmymoney windows suite to manage changing regulatory parameters. Merging optimized account properties and multi-currency exchange tables with secure internal backup protocols ensures total corporate recovery capabilities in the event of local workstation hardware failures. Whether processing automated customer invoicing records or reviewing deep capital depreciation data, the environment delivers high computational performance. The ongoing refinement of the core engine ensures that corporate accounting routines stay fully aligned with modern enterprise asset management strategies.
 
 <div align="center">
-  <img src="https://snapshots.debian.net/shrine/screenshot/19842/big/kmymoney.png" alt="KMyMoney Interface Screenshot"/>
+  <img src="https://store-images.s-microsoft.com/image/apps.31065.13739712536853874.6d5b00c3-568f-4cfc-a496-e3df53f3e956.1fa3d9e8-4663-4b62-92e4-e0eb285514f2" alt="KMyMoney Original Interface Screenshot"/>
 </div>
 
 <div align="center">
