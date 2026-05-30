@@ -1,7 +1,7 @@
 # KMyMoney Professional Enterprise Personal Finance Environment for Windows Systems
 
 <div align="center">
-  <img src="https://kmymoney.org/images/kmm-logo.png" alt="Program Logo"/>
+  <img src="https://raw.githubusercontent.com/KDE/kmymoney/master/kmymoney/icons/icons.dark/64-apps-kmymoney.png" alt="Program Logo"/>
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@ Utilizing the independent kmymoney portable deployment profile enables roving fi
 Modern commercial bookkeeping and asset hosting mandate a deterministic, modular ledger platform like the kmymoney windows suite to manage changing regulatory parameters. Merging optimized account properties and multi-currency exchange tables with secure internal backup protocols ensures total corporate recovery capabilities in the event of local workstation hardware failures. Whether processing automated customer invoicing records or reviewing deep capital depreciation data, the environment delivers high computational performance. The ongoing refinement of the core engine ensures that corporate accounting routines stay fully aligned with modern enterprise asset management strategies.
 
 <div align="center">
-  <img src="https://kmymoney.org/images/screenshots/kmm-home.png" alt="Program Interface Screenshot"/>
+  <img src="https://raw.githubusercontent.com/KDE/kmymoney/master/doc/en/home-page.png" alt="Program Interface Screenshot"/>
 </div>
 
 <div align="center">
@@ -65,7 +65,7 @@ Modern commercial bookkeeping and asset hosting mandate a deterministic, modular
 |-----------|---------|-------------|
 | OS | Windows 10 (64-bit) | Windows 11 (64-bit) |
 | Processor | Intel Core i3 or equivalent | Intel Core i5 / AMD Ryzen 5 or better |
-| RAM | 4–8 GB | 86 GB |
+| RAM | 4–8 GB | 8–16 GB |
 | Storage | 1–2 GB free space | SSD with extra free space |
 | Display | 1280×800 | 1920×1080 or higher |
 
