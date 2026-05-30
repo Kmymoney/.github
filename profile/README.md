@@ -1,7 +1,9 @@
 # KMyMoney Professional Enterprise Personal Finance Environment for Windows Systems
 
 <div align="center">
-  <img src="https://community.chocolatey.org/Content/PackageImages/kmymoney.png" alt="KMyMoney Original Logo" width="128"/>
+
+![KMyMoney](https://img.shields.io/badge/KMyMoney-Official_Software-blue?style=for-the-badge&logo=kde&logoColor=white)
+
 </div>
 
 <div align="center">
