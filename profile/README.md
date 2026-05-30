@@ -1,7 +1,7 @@
 # KMyMoney Professional Enterprise Personal Finance Environment
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUm9ZBkd36xLxd0vpH1mutNajYJaEG-j6VcQ&s" alt="KMyMoney Logo" width="128"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQeECchtDmosUOoDKyreMQwJaz-v1qh7hDMQ&s" alt="KMyMoney Logo" width="128"/>
 </div>
 
 <div align="center">
